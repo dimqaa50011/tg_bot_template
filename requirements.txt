@@ -1,0 +1,6 @@
+aiogram>=2.0,<=3.0
+aioredis==2.0
+environs==8.0.0
+pydantic==1.9.1
+asyncpg==0.26.0
+sqlalchemy==1.4
